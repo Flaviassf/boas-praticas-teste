@@ -37,6 +37,6 @@ e demonstra minha capacidade de:
 
 ---
 
-🔗 **Feito por**: Flavia de Sousa Silvestre  
+🔗 **Feito por**: Flávia de Sousa Silvestre  
 📅 **Ano**: 2025  
-📧 Contato: [Seu e-mail ou LinkedIn]
+📧 Contato: [https://www.linkedin.com/in/flavia-qa/]
